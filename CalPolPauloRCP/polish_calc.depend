@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492777029 source:c:\users\roberto\documents\programas\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492456324 source:c:\users\prcabral\documents\cprograming\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492542507 source:c:\users\prcabral\documents\cprograming\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492784868 source:c:\users\roberto\documents\programas\polish_calc3\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492780794 source:c:\users\roberto\documents\programas\polish_calc3\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+
+1492780794 source:c:\users\roberto\documents\programas\polish_calc21\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc21\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc21\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc21\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1493476766 source:c:\users\roberto\documents\programas\polish_calc21\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1493497259 source:c:\users\roberto\documents\programas\polish_calc22\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+
+1493497233 source:c:\users\roberto\documents\programas\polish_calc22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1493497898 source:c:\users\roberto\documents\programas\polish_calc22\new_line.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1493497731 source:c:\users\roberto\documents\programas\polish_calc22\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1493498412 source:c:\users\roberto\documents\programas\polish_calc22\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494102705 source:c:\users\roberto\documents\programas\polish_calc221\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+
+1494101140 source:c:\users\roberto\documents\programas\polish_calc221\new_line.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1494101258 source:c:\users\roberto\documents\programas\polish_calc221\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1494112071 source:c:\users\roberto\documents\programas\polish_calc221\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494095247 source:c:\users\roberto\documents\programas\polish_calc221\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1494113686 source:c:\users\roberto\documents\programas\polish_calc221\calcula.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1494102618 source:c:\users\roberto\documents\programas\polish_calc221\tofloat.c
+	<stdio.h>
+	<stdlib.h>
+
+1494369264 source:c:\users\roberto\documents\programas\calpolpaulorcp\calcula.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1494368773 source:c:\users\roberto\documents\programas\calpolpaulorcp\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+
+1494369101 source:c:\users\roberto\documents\programas\calpolpaulorcp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1494368968 source:c:\users\roberto\documents\programas\calpolpaulorcp\new_line.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1494369067 source:c:\users\roberto\documents\programas\calpolpaulorcp\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1494369189 source:c:\users\roberto\documents\programas\calpolpaulorcp\tofloat.c
+	<stdio.h>
+	<stdlib.h>
+
+1494369913 source:c:\users\roberto\documents\programas\calpolpaulorcp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

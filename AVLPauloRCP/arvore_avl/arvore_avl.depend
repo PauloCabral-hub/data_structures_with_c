@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495973682 source:c:\users\roberto\documents\programas\arvore_avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_avl.h"
+	"functions.h"
+
+1495918987 c:\users\roberto\documents\programas\arvore_avl\estruturas_avl.h
+	<stdio.h>
+	<stdlib.h>
+
+1495974076 c:\users\roberto\documents\programas\arvore_avl\functions.h
+	<stdio.h>
+	<stdlib.h>
+

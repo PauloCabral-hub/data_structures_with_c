@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1497699618 source:c:\users\roberto\documents\programas\treinografo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Estruturasdografo.h"
+
+1497700422 c:\users\roberto\documents\programas\treinografo\estruturasdografo.h
+	<stdio.h>
+	<stdlib.h>
+

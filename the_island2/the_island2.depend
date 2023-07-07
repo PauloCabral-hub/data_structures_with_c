@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1490987327 source:c:\users\prcabral\documents\cprograming\the_island2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1490965482 source:c:\users\prcabral\documents\cprograming\the_island2\readmap_dim.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1490987312 source:c:\users\prcabral\documents\cprograming\the_island2\readmap_mask.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1490987465 source:c:\users\prcabral\documents\cprograming\the_island2\read_mapval.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1490966112 source:c:\users\prcabral\documents\cprograming\the_island2\new_mat.c
+	<stdlib.h>
+
+1490965313 source:c:\users\prcabral\documents\cprograming\the_island2\rewrite_mat.c
+
+1490986558 source:c:\users\prcabral\documents\cprograming\the_island2\refresh_map.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

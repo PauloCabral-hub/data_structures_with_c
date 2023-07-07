@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492777029 source:c:\users\roberto\documents\programas\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492456324 source:c:\users\prcabral\documents\cprograming\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492542507 source:c:\users\prcabral\documents\cprograming\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492763086 source:c:\users\roberto\documents\programas\polish_calc3\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492784868 source:c:\users\roberto\documents\programas\polish_calc3\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492780794 source:c:\users\roberto\documents\programas\polish_calc3\checking_ppf.c
+	<stdio.h>
+	<stdlib.h>
+

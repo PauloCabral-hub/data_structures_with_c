@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="the_island2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/the_island2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/the_island2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="new_mat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="read_mapval.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="readmap_dim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="readmap_mask.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="refresh_map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rewrite_mat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="total_pollutant.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verify_map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492528480 source:c:\users\roberto\documents\programas\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492617842 source:c:\users\roberto\documents\programas\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
+1492456324 source:c:\users\prcabral\documents\cprograming\polish_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_line.c
+	<stdlib.h>
+	<stdio.h>
+
+1492429274 source:c:\users\prcabral\documents\cprograming\polish_calc\new_stack.c
+	<stdlib.h>
+	<stdio.h>
+
+1492542507 source:c:\users\prcabral\documents\cprograming\polish_calc\parser.c
+	<stdio.h>
+	<stdlib.h>
+
